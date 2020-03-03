@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\alex\source\repos\audioconverter\audioconverter\myform1.h(266): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\direct.h(111): note: see declaration of 'mkdir'
+  MyForm2.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  AudioConverter.vcxproj -> C:\Users\Alex\source\repos\AudioConverter\Debug\AudioConverter.exe
